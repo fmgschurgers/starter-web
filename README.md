@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 First test line
 Second test line
+
+## Copywright
+
+Copywright 2020 Frank Schurgers
